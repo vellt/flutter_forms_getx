@@ -9,7 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flut_grouped_buttons: ^0.0.9
   get: ^4.6.5
+  
   # ... flutter getx tutorial
 
 dev_dependencies:
